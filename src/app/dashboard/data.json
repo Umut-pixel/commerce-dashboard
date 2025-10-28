@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "orderNumber": "#ORD-3421",
+    "product": "Samsung Galaxy S24 Ultra 512GB",
+    "customer": "Ahmet Yılmaz",
+    "amount": "₺49,999",
+    "status": "Kargoda",
+    "date": "2024-06-30",
+    "category": "Elektronik",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "orderNumber": "#ORD-3420",
+    "product": "Apple AirPods Pro (2.Nesil)",
+    "customer": "Ayşe Demir",
+    "amount": "₺11,499",
+    "status": "Hazırlanıyor",
+    "date": "2024-06-30",
+    "category": "Aksesuar",
+    "quantity": 2
+  },
+  {
+    "id": 3,
+    "orderNumber": "#ORD-3419",
+    "product": "Sony WH-1000XM5 Wireless",
+    "customer": "Mehmet Kaya",
+    "amount": "₺15,499",
+    "status": "Tamamlandı",
+    "date": "2024-06-29",
+    "category": "Aksesuar",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "orderNumber": "#ORD-3418",
+    "product": "MacBook Pro 16″ M3 Pro",
+    "customer": "Zeynep Öztürk",
+    "amount": "₺89,999",
+    "status": "Kargoda",
+    "date": "2024-06-29",
+    "category": "Bilgisayar",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "orderNumber": "#ORD-3417",
+    "product": "iPad Pro 12.9″ M2",
+    "customer": "Fatma Şahin",
+    "amount": "₺36,999",
+    "status": "Beklemede",
+    "date": "2024-06-28",
+    "category": "Tablet",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "orderNumber": "#ORD-3416",
+    "product": "iPhone 15 Pro Max 256GB",
+    "customer": "Ali Çelik",
+    "amount": "₺69,999",
+    "status": "Tamamlandı",
+    "date": "2024-06-28",
+    "category": "Telefon",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "orderNumber": "#ORD-3415",
+    "product": "Samsung Galaxy Watch 6",
+    "customer": "Emre Arslan",
+    "amount": "₺9,999",
+    "status": "Hazırlanıyor",
+    "date": "2024-06-27",
+    "category": "Saat",
+    "quantity": 2
+  },
+  {
+    "id": 8,
+    "orderNumber": "#ORD-3414",
+    "product": "Apple Magic Keyboard",
+    "customer": "Selin Yavuz",
+    "amount": "₺3,499",
+    "status": "Kargoda",
+    "date": "2024-06-27",
+    "category": "Aksesuar",
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "orderNumber": "#ORD-3413",
+    "product": "Dell XPS 13 Plus",
+    "customer": "Burak Koç",
+    "amount": "₺45,999",
+    "status": "Tamamlandı",
+    "date": "2024-06-26",
+    "category": "Bilgisayar",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "orderNumber": "#ORD-3412",
+    "product": "Samsung Galaxy Buds2 Pro",
+    "customer": "Ceren Durmaz",
+    "amount": "₺7,499",
+    "status": "Kargoda",
+    "date": "2024-06-26",
+    "category": "Aksesuar",
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "orderNumber": "#ORD-3411",
+    "product": "Microsoft Surface Pro 9",
+    "customer": "Deniz Kılıç",
+    "amount": "₺52,999",
+    "status": "Hazırlanıyor",
+    "date": "2024-06-25",
+    "category": "Tablet",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "orderNumber": "#ORD-3410",
+    "product": "Apple Pencil (2.Nesil)",
+    "customer": "Gizem Aksoy",
+    "amount": "₺4,499",
+    "status": "Tamamlandı",
+    "date": "2024-06-25",
+    "category": "Aksesuar",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "orderNumber": "#ORD-3409",
+    "product": "Samsung 32″ 4K Monitor",
+    "customer": "Hakan Şimşek",
+    "amount": "₺8,999",
+    "status": "Kargoda",
+    "date": "2024-06-24",
+    "category": "Monitör",
+    "quantity": 2
+  },
+  {
+    "id": 14,
+    "orderNumber": "#ORD-3408",
+    "product": "Bose QuietComfort 45",
+    "customer": "İpek Yıldız",
+    "amount": "₺12,999",
+    "status": "Beklemede",
+    "date": "2024-06-24",
+    "category": "Aksesuar",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "orderNumber": "#ORD-3407",
+    "product": "Google Pixel 8 Pro",
+    "customer": "Kerem Doğan",
+    "amount": "₺44,999",
+    "status": "Tamamlandı",
+    "date": "2024-06-23",
+    "category": "Telefon",
+    "quantity": 1
+  }
+]
